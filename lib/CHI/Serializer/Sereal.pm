@@ -25,3 +25,7 @@ sub serializer {
 # ABSTRACT: Sereal serializer for CHI
 
 =for Pod::Coverage ^(serialize|deserialize|serializer)$
+
+=head1 SEE ALSO
+
+L<CHI>
